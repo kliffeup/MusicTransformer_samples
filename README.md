@@ -1,0 +1,2 @@
+# MusicTransformer_samples
+Репозиторий для хранения композиций, сгенерированных модификацией MusicTransformer
